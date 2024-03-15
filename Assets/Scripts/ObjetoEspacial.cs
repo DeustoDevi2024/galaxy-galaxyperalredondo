@@ -13,6 +13,7 @@ public class ObjetoEspacial : MonoBehaviour
     public float speedSaturno;
     public float speedUrano;
     public float speedNeptuno;
+
     // Start is called before the first frame update
     void Start()
     {
